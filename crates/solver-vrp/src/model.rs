@@ -227,3 +227,9 @@ impl VehicleType {
         self.index
     }
 }
+
+#[test]
+fn test_new_model()
+{
+    todo!();
+}
